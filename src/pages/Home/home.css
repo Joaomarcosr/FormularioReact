@@ -1,0 +1,25 @@
+.app {
+    display: flex;
+    flex-direction: column;
+}
+
+.title {
+    color: white;
+    font-size: 6rem;
+} 
+
+.btn {
+    width: 50%;
+} 
+
+.btn:hover {
+    opacity: .5;
+}
+
+.btn-link {
+    text-decoration: none;
+    color: black;
+}
+
+
+
